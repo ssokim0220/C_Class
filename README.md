@@ -1,6 +1,6 @@
 # C_Class
 Iot-2021-1 Class resource 한글 사용 가능
-2021-03-02 Iot Class daily report
+###2021-03-02 Iot Class daily report
 ```
 	int a, b;
 	
@@ -9,3 +9,5 @@ Iot-2021-1 Class resource 한글 사용 가능
 	
 	printf("a=%d\nb=%d\n", a,b);
 ```
+tfrtvfrjftrftjvftf
+bgkyvfvkf
